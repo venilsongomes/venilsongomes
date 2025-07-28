@@ -16,7 +16,7 @@ Sou um **Desenvolvedor Front End** apaixonado por criar interfaces modernas, fun
 
 - ⚙️ React, HTML, CSS, JavaScript
 - 🛠️ Git, GitHub
-- 🧰 VS Code, Figma
+- 🧰 VS Code, Figma, UI / UX
 
 ## 📌 Projetos em destaque
 - [Meu Portifólio](https://venilsongomes.github.io/Portifolio/): Meu Portifólio, lá tem mais detalhes e Projetos .
@@ -31,5 +31,21 @@ Sou um **Desenvolvedor Front End** apaixonado por criar interfaces modernas, fun
 - LinkedIn: [linkedin.com/in/venilsonrocha](https://www.linkedin.com/in/venilsongomes/)
 
 ---
+
+<details>
+  <summary>Mais sobre mim</summary>
+  <ul>
+    <li>Busco sempre aprender novas tecnologias e tendências de Front End.</li>
+    <li>Valorizo o trabalho em equipe e a colaboração para alcançar resultados extraordinários.</li>
+    <li>Se quiser trocar ideias sobre projetos, tecnologia ou viagens, me chame!</li>
+  </ul>
+</details>
+
+---
+
+<p align="center">
+  <i>Detalhes fazem a diferença. <br>
+  Código limpo, design marcante e experiências únicas.</i>
+</p>
 
 ✨ Obrigado por visitar meu perfil!

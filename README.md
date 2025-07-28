@@ -10,20 +10,21 @@
 
 
 ## 👨‍💻 Sobre mim
-Sou um **Desenvolvedor Front End** apaixonado por criar interfaces modernas, funcionais e com atenção aos mínimos detalhes. Trabalho principalmente com **React**, **Bootstrap**, **Twind**, **HTML** e **CSS**, buscando sempre entregar experiências marcantes e intuitivas.
+Sou um **Desenvolvedor Front End** apaixonado por criar interfaces modernas, funcionais e com atenção aos mínimos detalhes. Trabalho principalmente com **React**, **Bootstrap**, **tailwindcss**, **HTML** e **CSS**, buscando sempre entregar experiências marcantes e intuitivas.
 
 ## 🚀 Tecnologias que uso
-- ⚙️ HTML, CSS, JavaScript
-- 🐍 Python
+
+- ⚙️ React, HTML, CSS, JavaScript
 - 🛠️ Git, GitHub
 - 🧰 VS Code, Figma
 
 ## 📌 Projetos em destaque
-- [Projeto X](https://github.com/seuusuario/projeto-x): Sistema de controle de serviços com interface intuitiva.
-- [Projeto Y](https://github.com/seuusuario/projeto-y): Ferramenta de automação para tarefas repetitivas.
+- [Meu Portifólio](https://venilsongomes.github.io/Portifolio/): Meu Portifólio, lá tem mais detalhes e Projetos .
+- [Cardápio Online](https://venilsongomes.github.io/Cardapio/): Cardápio Online, desenvolvido para um Bar chamado Tio Patinhas Bar, Afin de agilizar os pedidos e maior dar maior autonomia para os clientes nas escolhas dos pratos.
+
 
 ## 📈 Estatísticas do GitHub
-![Venilson's GitHub stats](https://github-readme-stats.vercel.app/api?username=seuusuario&show_icons=true&theme=radical)
+![Venilson's GitHub stats](https://github-readme-stats.vercel.app/api?username=venilsongomes&show_icons=true&theme=radical)
 
 ## 📫 Como me encontrar
 - Email: venilson1019@gmail.com

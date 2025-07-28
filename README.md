@@ -24,7 +24,7 @@ Sou um **Desenvolvedor Front End** apaixonado por criar interfaces modernas, fun
 
 
 ## 📈 Estatísticas do GitHub
-![Venilson's GitHub stats](https://github-readme-stats.vercel.app/api?username=venilsongomes&show_icons=true&theme=radical)
+![Venilson's](https://github-readme-stats.vercel.app/api?username=venilsongomes&show_icons=true&theme=radical)
 
 ## 📫 Como me encontrar
 - Email: venilson1019@gmail.com
